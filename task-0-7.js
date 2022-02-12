@@ -5,3 +5,4 @@ function celciusToFahrenheit(cel){
 function fahrenheitToCelcius(fah){
     return ((fah - 32) * (5/9));
 }
+
